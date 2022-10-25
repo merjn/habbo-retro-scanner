@@ -1,0 +1,1 @@
+module github.com/merjn/habbo-retro-scanner
